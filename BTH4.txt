@@ -1,0 +1,5 @@
+4
+Student#Hoc sinh
+Apple#Trai tao
+Peanut#Dau phong
+Teacher#Giao vien

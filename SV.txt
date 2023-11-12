@@ -1,0 +1,6 @@
+5
+sv01#Le Gia Huy#2004#Binh Chanh#Nam#9.8
+sv02#Nguyen Thi Cam Ly#2004#Tan Tuc#Nu#7.8
+sv03#Thai Vu Nhat Huy#2004#Binh Chanh#Nam#7.0
+sv04#Truong Ai My#2004#Binh Chanh#Nu#9.9
+sv05#Le Doan Kim Thuy#2004#Hung Long#Nu#6.8
